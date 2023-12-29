@@ -20,7 +20,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utiliti
                     Cycles = {
                         Min = 1,
                         Max = 1,
-                        WaitTime = 0,
+                        WaitTime = 7,
                     },
                     CamShake = {
                         true, -- Enabled/Disabled
